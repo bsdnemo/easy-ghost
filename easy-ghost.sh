@@ -2,7 +2,7 @@
 
 #ghost blog install script
 #author mayi
-#email bsdnemo@gmail.com
+#email bsdnemo at gmail dot com
 #url http://github.com/bsdnemo/easy-ghost
 #license GNU/GPL v2
 
