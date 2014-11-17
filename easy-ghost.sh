@@ -1,10 +1,10 @@
 #!/bin/bash
 
 #ghost blog install script
-#author mayi
+#author bsdnemo
 #email bsdnemo at gmail dot com
-#url http://github.com/bsdnemo/easy-ghost
-#license GNU/GPL v2
+#url http://github.com/maihuayi/easy-ghost
+#license GNU/GPL V2 http://gnu.org/licenses/gpl-2.0.html
 
 # install requirement
 install_requirement()
